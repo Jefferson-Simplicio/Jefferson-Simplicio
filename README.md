@@ -1,4 +1,4 @@
-## 🐒 Olá!! ou o Jefferson da Silva Simplicio Estudante 🐒
+## Olá!! sou o Jefferson da Silva Simplicio 🐒
 <div align="center">
   <a href="https://github.com/Jefferson-Simplicio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jefferson-Simplicio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
